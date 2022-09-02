@@ -1,0 +1,8 @@
+investpy
+pandas
+streamlit
+plotly
+scipy
+matplotlib
+datetime
+
